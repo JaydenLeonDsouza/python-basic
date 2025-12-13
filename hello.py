@@ -1,2 +1,3 @@
 #code that says hello
-print("hello")
+greeting = "hello"
+print(greeting)
