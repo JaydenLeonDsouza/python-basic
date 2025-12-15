@@ -1,3 +1,4 @@
 #code that says hello
-greeting = "hello"
-print(greeting)
+print("hello...")
+name = input("what is your name? ")
+print("greetings " + name)
